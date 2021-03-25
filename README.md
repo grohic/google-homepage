@@ -1,1 +1,1 @@
-The plan is to visually recreatea the Google page.
+The plan is to visually recreate the Google page.
